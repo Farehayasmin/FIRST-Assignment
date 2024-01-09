@@ -78,7 +78,7 @@
 }
 
 .third-part {
-    background-image: url('../images/Vector.png');
+    background-image: url('../images/Vectorrr.png');
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
@@ -214,4 +214,5 @@
 } */
 .prortfolio{
     display: inline;
+
 }
